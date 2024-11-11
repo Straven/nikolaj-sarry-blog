@@ -1,3 +1,29 @@
 baseURL = 'https://nikolaj-sarry-blog-4b84cc.gitlab.io'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Nikolaj Sarry Blog'
+
+theme = "github.com/lxndrblz/anatole"
+
+enableEmoji = true
+enableRobotsTXT = true
+
+# Syntax highlighting
+pygmentsUseClasses = true   
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+        unsafe=true
+
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = true
+[[related.indices]]
+  name = 'keywords'
+  weight = 100
+[[related.indices]]
+  name = 'tags'
+  weight = 80
