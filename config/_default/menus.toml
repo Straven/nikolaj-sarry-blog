@@ -10,11 +10,11 @@ weight = 200
 identifier = "posts"
 url = "/post/"
 
-[[main]]
-name = "Portfolio"
-weight = 300
-identifier = "portfolio"
-url = "/portfolio/"
+#[[main]]
+#name = "Portfolio"
+#weight = 300
+#identifier = "portfolio"
+#url = "/portfolio/"
 
 [[main]]
 name = "About"
@@ -41,11 +41,11 @@ url = "/about/"
 #url = "/certifications/"
 #parent = "accomplishments"
 
-[[main]]
-name = "Contact"
-weight = 600
-identifier = "contact"
-url = "/contact/"
+#[[main]]
+#name = "Contact"
+#weight = 600
+#identifier = "contact"
+#url = "/contact/"
 
 #[[footer]]
 #name = "imprint"
