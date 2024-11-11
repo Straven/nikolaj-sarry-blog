@@ -17,6 +17,11 @@ pygmentsCodefencesGuessSyntax = true
         [markup.goldmark.renderer]
         unsafe=true
 
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+    series = "series"
+
 [related]
   includeNewer = true
   threshold = 80

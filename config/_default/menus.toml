@@ -10,6 +10,18 @@ weight = 200
 identifier = "posts"
 url = "/post/"
 
+[[main]]
+name = "Categories"
+weight = 300
+identifier = "categories"
+url = "/categories/"
+
+[[main]]
+name = "Series"
+weight = 300
+identifier = "series"
+url = "/series/"
+
 #[[main]]
 #name = "Portfolio"
 #weight = 300
