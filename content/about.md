@@ -7,7 +7,7 @@ Categories: []
 DisableComments: true
 thumbnail: ''
 toc: false
-draft: true
+draft: false
 ---
 
 My name is Mykola Sarry and I am an IT Project Manager. Here I'm sharing my thoughts and experience.
