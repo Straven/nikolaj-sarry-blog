@@ -1,7 +1,7 @@
 ---
 title: 'Agile Metrics From Agile Project Tools'
 date: 2024-11-11T10:53:00+02:00
-Description: ''
+Description: 'Agile Metrics From Agile Project Tools'
 draft: false
 Tags: ['agile', 'project_management', 'metrics']
 Categories: ['project-management']

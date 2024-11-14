@@ -1,11 +1,11 @@
 ---
-title: "Agile Metrics Principles"
+title: 'Agile Metrics Principles'
 date: 2024-11-11T10:38:56+02:00
-Description: ""
-Tags: ["agile", "project_management", "metrics"]
-Categories: ["project-management"]
+Description: 'Agile Metrics Principles'
+Tags: ['agile', 'project_management', 'metrics']
+Categories: ['project-management']
 DisableComments: false
-thumbnail: "images/wallpaper.jpg"
+thumbnail: 'images/wallpaper.jpg'
 series:
   - agile-metrics
 toc: true
@@ -16,11 +16,12 @@ In this series of articles I will give you information about agile metrics so th
 The articles will cover all the possible metrics you are likely to want to use. You'll learn what they mean, when you can use them and how, and when you shouldn't use them.
 
 I have divided all the metrics into five categories:
-- Agile Project Tools metrics  - tracks the elements your team is working with.
-- Lean Kanban metrics  - derived from Agile Project Tools or other sources.
+
+- Agile Project Tools metrics - tracks the elements your team is working with.
+- Lean Kanban metrics - derived from Agile Project Tools or other sources.
 - Metrics from Version Control Tools ( VCS) - tracks the commits that developers make to the codebase.
 - Metrics from CI/CD Tools - taken from automated continuous integration and continuous delivery tools.
-- Metrics  from Business Analytics - show how customers are using your software, how your business is growing, what customers think of your products, etc.
+- Metrics from Business Analytics - show how customers are using your software, how your business is growing, what customers think of your products, etc.
 
 For each metric, we'll look at what it is, how to collect it, when to use it, and what you should be aware of.
 
@@ -33,6 +34,7 @@ However, understanding the principles is an important first step, and you will g
 ## Principle #1: Agile metrics should be used by the team
 
 Despite the obviousness of this principle, it is often neglected. In 99% of cases where agile metrics are used, this principle is not followed. In most cases because, someone outside the team, usually a manager, wants to “snoop”, “measure” or “evaluate” the team to “check productivity”. This is a bad approach for the following reasons:
+
 - these metrics do not measure productivity;
 - there is no easy way to measure productivity;
 - productivity is not the primary measure of success - instead, you should look at the delivery of valuable software (I'd rather choose a non-productive team that delivers valuable software over a productive team that delivers useless software any day of the week);

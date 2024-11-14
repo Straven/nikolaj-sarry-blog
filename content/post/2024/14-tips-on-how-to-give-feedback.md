@@ -1,11 +1,11 @@
 ---
-title: "14 Tips on How to Give Feedback"
+title: '14 Tips on How to Give Feedback'
 date: 2024-11-11T06:18:04+02:00
-Description: ""
-Tags: ["feedback"]
-Categories: ["feedback"]
+Description: 'Tips for new project managers about giving feedback'
+Tags: ['feedback']
+Categories: ['feedback']
 DisableComments: false
-thumbnail: "images/wallpaper.jpg"
+thumbnail: 'images/wallpaper.jpg'
 toc: true
 ---
 
@@ -16,6 +16,7 @@ Disclaimer: This article is primarily for yesterday's programmers who have becom
 ## 1. Feedback should be given immediately
 
 Feedback on a negative situation should happen instantly. There are two reasons for this:
+
 - the employee will switch to other tasks, it will be hard for them to remember what they did wrong a few days or weeks ago;
 - the employee will form the opinion that the manager is biased towards him and is just picking on him, or maybe he wants to get him out of the team.
 
@@ -55,7 +56,7 @@ Try to use general phrases as little as possible. You should explain specificall
 
 Immediately after stating the problem, do not rush to present your solution. Give the employee a chance to express his or her opinion and position. Perhaps you do not have complete data and have not seen the full picture of the situation and it turns out that the continuation of the conversation does not make sense or should be directed in another direction. Don't turn feedback into scolding in an empty place. Feedback is a dialog in which the interlocutors must understand each other in order to eventually come to an agreement. To do this, the manager must get a perspective from the employee with whom he or she is talking.
 
-It may be that the project was on a deadline, and everyone was working hard to make it on time. The employee you are talking to was doing a review and in the turmoil did not reflect the result of the review in the task manager. Sending to the test server was also not done in time, but because at that time another programmer broke the functionality that the employee was doing with his commit. 
+It may be that the project was on a deadline, and everyone was working hard to make it on time. The employee you are talking to was doing a review and in the turmoil did not reflect the result of the review in the task manager. Sending to the test server was also not done in time, but because at that time another programmer broke the functionality that the employee was doing with his commit.
 
 ## 9. Clearly state your position
 
@@ -71,7 +72,7 @@ When giving feedback you should be restrained and cool-headed. Employees should 
 
 ## 11. Manage non-verbal signals
 
-90% of the essence of communication is conveyed by gestures. The manager should pay attention to the intonation, facial expressions, gestures with which he communicates. Be sure to be interested in the topic of nonverbal signals. In particular, do not use closed postures, crossed arms or intertwined fingers &#8211; these are signals that you give a one-sided view and you do not care about the opinion of the interlocutor. 
+90% of the essence of communication is conveyed by gestures. The manager should pay attention to the intonation, facial expressions, gestures with which he communicates. Be sure to be interested in the topic of nonverbal signals. In particular, do not use closed postures, crossed arms or intertwined fingers &#8211; these are signals that you give a one-sided view and you do not care about the opinion of the interlocutor.
 
 While open palms indicate sincerity, and open posture disposes to relaxed communication.
 
@@ -85,5 +86,5 @@ If the employee summarizes the conversation on their own or with your help, it w
 
 ## 14. At the end of the conversation, say thank you. Part on a positive note
 
-At the end of the conversation, thank the employee for their time. Let him or her know that you believe he or she will benefit from your dialog and can become a better person. But don't be pushy or intrusive, you need 
+At the end of the conversation, thank the employee for their time. Let him or her know that you believe he or she will benefit from your dialog and can become a better person. But don't be pushy or intrusive, you need
 to let the employee know that they are primarily responsible for themselves and you don't doubt them, you just want to help.
