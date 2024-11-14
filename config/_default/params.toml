@@ -57,7 +57,7 @@ crossorigin="anonymous"
 
 [umami]
 # serverURL = "example.com"
-# id = "94db1cb1-74f4-4a40-ad6c-962362670409"
+id = "09c1e20f-96e7-40a0-8eb0-b69ec08e639f"
 # trackerScriptName = "mycustomscriptname.js"
 
 ## Math settings
