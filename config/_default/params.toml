@@ -56,9 +56,9 @@ crossorigin="anonymous"
 # serverURL = "https://analytics.example.com"
 
 [umami]
-# serverURL = "example.com"
+serverURL = "analytics.umami.is"
 id = "09c1e20f-96e7-40a0-8eb0-b69ec08e639f"
-# trackerScriptName = "mycustomscriptname.js"
+trackerScriptName = "script.js"
 
 ## Math settings
 [math]
