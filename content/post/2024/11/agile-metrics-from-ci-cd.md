@@ -2,7 +2,7 @@
 title: 'Agile Metrics From CI/CD'
 date: 2024-11-17T02:32:56+02:00
 Description: 'These metrics come from continuous integration and continuous delivery tools. They are now part of a holistic DevOps tool chain and automated pipeline.'
-draft: true
+draft: false
 Tags: ['agile', 'agile-metrics', 'ci-cd']
 Categories: ['project-management']
 DisableComments: false
