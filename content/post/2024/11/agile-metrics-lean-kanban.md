@@ -16,6 +16,8 @@ Tags:
 Categories: ['project-management']
 DisableComments: false
 thumbnail: 'images/agile-metrics-lean-kanban.png'
+series:
+  - agile-metrics
 toc: true
 ---
 

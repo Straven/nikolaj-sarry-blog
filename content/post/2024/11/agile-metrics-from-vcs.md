@@ -7,6 +7,8 @@ Tags: ['agile', 'metrics', 'vcs', 'version-control', 'version-control-system']
 Categories: ['project-management']
 DisableComments: false
 thumbnail: 'images/agile-metrics-vcs.png'
+series:
+  - agile-metrics
 toc: true
 ---
 
