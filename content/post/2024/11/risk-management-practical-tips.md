@@ -6,7 +6,7 @@ draft: false
 Tags: ['risks', 'risk-management']
 Categories: ['risk-management']
 DisableComments: false
-thumbnail: 'images/2024/11/risk-management.png'
+thumbnail: 'images/2024/11/risk-management.webp'
 toc: true
 ---
 
@@ -46,7 +46,7 @@ In practice, a risk register and a risk map are used instead of a risk managemen
 
 The register is a simple spreadsheet that can have from three to dozens of columns, depending on how detailed the risks are. You can keep it in any spreadsheet (Excel, Google Sheet) or wherever you like - the main thing is that you use it.
 
-![Risk Register Example](/images/2024/11/risk-register.png)
+![Risk Register Example](/images/2024/11/risk-register.webp)
 
 For ease of use, you can add columns for the date of identification, the person responsible for the risk, a comment for the risk response strategy (accept, avoid, etc.), risk type (threat/opportunity), category, risk cost and other attributes you want to control.
 
@@ -58,7 +58,7 @@ One risk register may not be enough. The number of risks identified may be so la
 
 To make the right decision about which risks to control, a risk map is used to show all the entries in the risk register in a diagram. By looking at it, we can easily identify the items that need attention.
 
-![Risk Diagram Example](/images/2024/11/risk-diagram.png)
+![Risk Diagram Example](/images/2024/11/risk-diagram.webp)
 
 The risk graph is usually constructed according to the following rules. On the axis of the abscissa is the **impact** of the risk on the project - the higher the value, the greater the impact of the risk. On the ordinate axis - **probability** of occurrence of the risk event. The diagram can be conditionally divided into 4 squares:
 

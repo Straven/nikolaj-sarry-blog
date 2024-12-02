@@ -5,7 +5,7 @@ Description: 'Tips for new project managers about giving feedback'
 Tags: ['feedback']
 Categories: ['feedback']
 DisableComments: false
-thumbnail: 'images/wallpaper.jpg'
+thumbnail: 'images/wallpaper.webp'
 toc: true
 ---
 

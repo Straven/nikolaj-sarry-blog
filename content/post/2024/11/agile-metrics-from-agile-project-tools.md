@@ -6,7 +6,7 @@ draft: false
 Tags: ['agile', 'project_management', 'metrics']
 Categories: ['project-management']
 DisableComments: false
-thumbnail: 'images/2024/11/agile-project-tools-metrics.png'
+thumbnail: 'images/2024/11/agile-project-tools-metrics.webp'
 series:
   - agile-metrics
 toc: true
@@ -16,7 +16,7 @@ Let's continue our journey through agile metrics. And from this part we will div
 
 ## Velocity
 
-![Agile metric velocity](/images/2024/11/agile-metric-velocity.png)
+![Agile metric velocity](/images/2024/11/agile-metric-velocity.webp)
 
 This is the first metric that is looked at when talking about agile metrics. It is the most commonly used and overrated. And to help you understand why you may use it wrong answer on the question "How do you calculate velocity?".
 
@@ -43,7 +43,7 @@ In some cases, velocity is not actuall needed for planning. If the only reason y
 
 ## Velocity variance and the standard deviation
 
-![Velocity variance and the standard deviation](/images/2024/11/velocity-variance-standart-deviation.png)
+![Velocity variance and the standard deviation](/images/2024/11/velocity-variance-standart-deviation.webp)
 
 Ideally, teams should exhibit a fairly constant velocity with a gradually increasing slope. Significant velocity gaps and jumps are a bad sign. You can check this by looking at the change in velocity. The proper statistical way to do this is to calculate and average over the last six completed sprints (while six is the ideal number for this task, the right minimum with which you can do this is four, and the lowest point is three). Then take the difference between velocity of each sprint and the average, and square it (so that all the numbers will be positive). Add up the squared difference - this will give you the variance. Divide the variance by the number of differences - this will give you the standard deviation. You can also use the square root of the variance as the deviation to equalise the power up.
 
@@ -92,7 +92,7 @@ These are pretty big numbers for a team with average velocity of 30, and it indi
 
 ## Velocity predictability
 
-![Velocity predictability](/images/2024/11/velocity-predictability.png)
+![Velocity predictability](/images/2024/11/velocity-predictability.webp)
 
 Another interesting metric is degree to which the velocity matches the team's planned velocity.
 For example, a team may plan a sprint with 24 Story Pointsm but then execute 28 (or 20). This is interesting data, especially if it becomes a pattern. Ideally, the team should be running at a predictable sustainable pace. Make sure data like this is not used as a vector of attacking the team for a poor perfomance. There are many factors that can affect a team's score (and velocity) and mane of them are external.
@@ -105,13 +105,13 @@ To measure this, simply take the difference between scheduled and completed Stor
 
 ## Recidivism
 
-![Recidivism](/images/2024/11/recidivism.png)
+![Recidivism](/images/2024/11/recidivism.webp)
 
 This metric is the ratio of user stories that go back into development. This is usually due to failing some QA tests (but can also be for other reasons, such as a change in requirements). You can calculate it by taking the total number of completed user stories in the sprint that re-entered and dividing them by the total number of completed stories. If a story has gone back into development more than once, you can still count it as once (but this is not very good practice). Certainly you'll want the number of recurrences to me minimal, and ideally - 0. If the rate is higher than 10% or 20%, this should be a serious concern, as it indicates a quality problem (it could be code quality, requirements quality, perhaps even data quality or the environment in which the work being done; so don't go straight to the developers with questions - try to get to the root of the cause).
 
 ## First-time pass rate
 
-![First-time pass rate](/images/2024/11/first-time-pass-rate.png)
+![First-time pass rate](/images/2024/11/first-time-pass-rate.webp)
 
 This metric is very similar to recidivism. It is the percentage of test cases that were passed the first time they were run. Take the number of the test cases passed the first time and divide them by the total number of tests run. You can take this metric per sprint or release, and each metric should be treated as a separate metric. This metric is typically used to measure test case progression. That is, you have a new feature that works, but you want to test it with regression tests, testing old features to make sure nothing is broken. If you do this, you should have separate metrics for regression and progression tests, because each of this metric tells a different story. Ideally, the percentage of tests passing the first time should be close to 100% - even teams wothout extensive automatation should have a reasonable quality level set. If it's below 90%, there is a quality problem (although, again, you need to find the part of process that's causing the problem, rather than attacking people). If you implement reasonable test automatation, it should be fairly easy to get close to 100%.
 
@@ -119,13 +119,13 @@ If you don't use test cases, you can base it on user stories. In this case, take
 
 ## Defect count by sprint
 
-![Defect conut by sprint](/images/2024/11/defect-count.png)
+![Defect conut by sprint](/images/2024/11/defect-count.webp)
 
 This simply metric allows you to see how many defects you have in each sprint. You calculate it by adding the number of defects that were created during the sprint. If a defect was created twice for some reason (which shouldn't happen), count it once. If it was closed in another sprint (which shouldn't happen either), don't worry about it. This metric is simply the number of defects created. It is a number that should ideally decrease to zero, or very close to it, as the release approaches.
 
 ## Defect count by story count
 
-![Defect count by story count](/images/2024/11/defect-count-by-story.png)
+![Defect count by story count](/images/2024/11/defect-count-by-story.webp)
 
 This metric is likely to be more useful that the previous one. It is calculated as the ratio of the previous number (defects created during the sprint) to the total number of user stories in the sprint. The problem with using a fixed number, such as the number of defects per sprint, is that it doesn't take into account how many stories were in the sprint. This can vary greatly depending on the experience and size of the team, project context, number of current defects, technical debt, etc. Two defects identified in a sprint with two stories is very different from two defects identified in a sprint with 20 stories (using this metric we get 100% vs 10%). To calculate this metric, divide the number of defects created in a sprint (the previous metric) by the number of stories in the sprint. I would recommend to calculate this using stories that were in development or later at the time the sprint was completed. Don't forget to include closed defects and closed stories as well.
 
@@ -133,13 +133,13 @@ This metric is likely to be more useful that the previous one. It is calculated 
 
 ## Story completion ratio
 
-![Story completion ratio](/images/2024/11/story-completion-ratio.png)
+![Story completion ratio](/images/2024/11/story-comletion-ration.webp)
 
 This is simply the number of stories completed in the sprint compared to the recorded number at the start. So if a team puts ten stories into a sprint and completes seven, the completion ratio is 70%. This rate should be high enough - stories should be small enough to be completed in one iteration. Be sure to include stories carried over from previous sprints to count the number of completed stories recorded. This is actually part og sprint goal or commitment. Don't forget to include stories that were deferred during the sprint or placed back in the queue. Ignoring them will certainly improve the score, but will hide the real picture.
 
 ## Story point completion ratio
 
-![Story point completion ratio](/images/2024/11/story-point-completion-ratio.png)
+![Story point completion ratio](/images/2024/11/story-point-comletion-ratio.webp)
 
 This metric is similar to the previous one, but is calculated using story points rather than number of stories. Whilst not everyone (me in particular) likes to evaluate stories in points this metric is more useful than the previous one as it better reflects the situation. Let's imagine that a team takes on 10 stories, two stories got 1 point each, and remaining eight got 13. Suppose the team fails to complete two stories which together got 2 points. According to the previous metric, we get 20% of the work that was not completed. But if we look at the result of this metric, only 2% of the total work was not completed.
 
@@ -153,7 +153,7 @@ Like I said earlier, deal with the problem, not the person. Use the principle of
 
 ## Blocked time by work item
 
-![Blocked time by work item](/images/2024/11/blocked-time-by-work-item.png)
+![Blocked time by work item](/images/2024/11/blocked-time-by-work-item.webp)
 
 This and next metric describe the impact and duration of obstacles during the task completion. To calculate how long each work item has been blocked, you first need to start tracking blockers (sometimes called obstacles) in your project management tool. Most modern agile project tools allow you to mark stories or tasks as 'blocked' and also include some form of auditing or reporting on the amount of time an item has been blocked. If you are tracking blockers, at the end of the sprint, simply add up all the time that any story or task in the sprint has been in a blocked state.
 
@@ -169,7 +169,7 @@ Don't use this indicator to criticise the team or look for a scapegoat. This met
 
 ## Percent of items blocked
 
-![Percent of items blocked](/images/2024/11/percent-of-items-blocked.png)
+![Percent of items blocked](/images/2024/11/percent-of-items-blocked.webp)
 
 This metric is similar to the previous one, but measures what percentage of user stories in a sprint are blocked by obstacles. It won't tell you how long the blocking lasts, but it will tell you the percentage of blocked stories out of the total number of stories, which can be useful. If you use a report on the blocking time of each item, your numbers may be skewed, as one story blocked for a long time 'blows up' the average, which is extremely low without it. You can exclude outliers or use this metric instead. It is calculated very simply - count how many stories were blocked during the sprint (assuming they made it to the sprint backlog, we are not talking about counting or blocking in the product backlog). Then divide this resulting number by the total number of stories that were in any progress during the sprint. This will give you the percentage of blocked items.
 
@@ -183,7 +183,7 @@ You can use this metric to determine the frequency of obstacles in your team. Yo
 
 Cumulative Flow Diagram (CFD) - is not really a metric, but a visualisation of a set of underlying metrics. Specifically, a CFD is a cumulative line chart showing the total scores of stories in different states. This chart is difficult to describe verbally, so it will be easier to give a visual example. Below is the cumulative flow diagram for a team. The horizontal axis is time, the vertical axis is strories in a certain state according to points. The colours represents the states in which the stories are in.
 
-![Cumulative Flow Diagram](/images/2024/11/CFD.png)
+![Cumulative Flow Diagram](/images/2024/11/CFD.webp)
 
 In this diagram, green is completed stories, light purple is `Review`, blue is `In Progress`, and orange is not yet commited.
 

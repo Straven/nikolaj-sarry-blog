@@ -6,7 +6,7 @@ draft: false
 Tags: ['burnout', 'anti-burnout', 'burnout-management', 'burnout-control']
 Categories: ['self-development']
 DisableComments: false
-thumbnail: 'images/2024/11/burnout-1.png'
+thumbnail: 'images/2024/11/burnout-1.webp'
 toc: true
 ---
 
@@ -16,7 +16,7 @@ The brain grows unevenly throughout life. By the age of 25, the brain's neuropla
 
 ## How burnout occurs
 
-![Burnout](/images/2024/11/burnout-2.png)
+![Burnout](/images/2024/11/burnout-2.webp)
 
 The easiest way to explain burnout and its process is to use the example of a favourite song. You have a favourite song and you like it for a while, but over time it starts to annoy you. Music and lyrics are signals that our brain processes. At first it does this quickly and easily, but then it takes more energy to do so.
 
@@ -106,7 +106,7 @@ Motivate an employee in any of the ways listed earlier in this article. Praise a
 
 ## Conclusion
 
-![Burnout](/images/2024/11/burnout-1.png)
+![Burnout](/images/2024/11/burnout-1.webp)
 
 If you want your employees to avoid burnout and enjoy their work, just follow these rules:
 

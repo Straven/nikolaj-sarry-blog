@@ -6,7 +6,7 @@ draft: false
 Tags: ['youtube', 'download', 'yt-dlp', 'yt-dl', 'youtube']
 Categories: ['tools', 'cli-tools']
 DisableComments: false
-thumbnail: 'images/how-to-use-yt-dlp.png'
+thumbnail: 'images/2024/11/how-to-use-yt-dlp.webp'
 toc: true
 ---
 
@@ -25,14 +25,14 @@ Yes this is the main thing. Without ffmpeg all you can is still get 720p single 
 
 And of course i recommend to create a separate folder for downloads and depending of your system put `yt-dlp` and `ffmpeg` binaries here also.
 
-![YT-DLP](/images/how-to-use-yt-dlp.png)
+![YT-DLP](/images/2024/11/how-to-use-yt-dlp.webp)
 
 ## Downloading YT-DLP
 
 You can grab YT-DLP from it's [official repository](https://github.com/yt-dlp/yt-dlp/).
 Installation section in README provide quick access to binary for your OS.
 
-![Downloading YT-DLP](/images/2024/11/yt-dlp-readme.png)
+![Downloading YT-DLP](/images/2024/11/yt-dlp-readme.webp)
 
 Grab binary for your system and if needed put in folder I mention before. For updating it you can call `yt-dlp -U` command and get latest version.
 

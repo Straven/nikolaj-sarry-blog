@@ -6,13 +6,13 @@ draft: false
 Tags: ['project-management']
 Categories: ['project-management']
 DisableComments: false
-thumbnail: 'images/how-project-managers-runs-projects.png'
+thumbnail: 'images/2024/11/how-project-managers-runs-projects.webp'
 toc: true
 ---
 
 What is the matter of this post? The main reason why I choose this topic is to help beginners test their awareness and start building a bridge between theory and practice, and perhaps get rid of stereotypes. The material is primarily aimed at juniors and trainees in PM, but it can be useful for other IT specialists. And of course, **I want to bust a myth that a parrot can be promoted to PM if he can say "well, what's there?"**.
 
-![How Project Managers Run Projects](/images/how-project-managers-runs-projects.png)
+![How Project Managers Run Projects](/images/2024/11/how-project-managers-runs-projects.webp)
 
 # What is a project?
 
@@ -20,7 +20,7 @@ The classic definition is that a project is a temporary undertaking to create a 
 
 But for a project manager, this is not enough: you must always take into account the scope of the project, the cost, and the time of work. These elements are called triple boundedness.
 
-![Project management triangle](/images/2024/11/project-management-triangle.png)
+![Project management triangle](/images/2024/11/project-management-triangle.webp)
 
 The essence of the triangle is that you cannot select everything at once - **you need to try to maintain a balance between the elements**. Depending on the tasks and processes of the project, you can choose two constraints, while sacrificing the third. Many, cheap and fast will not work, although this is the principled position of many customers.
 
@@ -40,7 +40,7 @@ An event to create a product or result within a specific timeframe, budget, and 
 
 These concepts intersect and interact with each other in the following way:
 
-![Managers star map intersection](/images/2024/11/pm-stars-intersections.png)
+![Managers star map intersection](/images/2024/11/pm-stars-intersections.webp)
 
 # Which approach to choose?
 
@@ -58,7 +58,7 @@ At the moment, the iterative model and Agile, in general, are the best they have
 
 # Agile ≠ Laziness ≠ Silver bullet
 
-![Never go full agile](/images/2024/11/never-go-gull-agile.png)
+![Never go full agile](/images/2024/11/never-go-full-agile.webp)
 
 Like any philosophy, Agile needs to be comprehended. As in any philosophy, its principles are exaggregation, and exposure in order to make it clearer. This is not a framework, and therefore it must be used consciously.
 
@@ -125,7 +125,7 @@ Let's what can happen in an example case:
 
 The rest of your communication skills will spend on putting out local burns of a QA engineer and explaining what exactly needs to be tested. 5 sprints in this mode - and you can be taken out.
 
-![Project on Fire](/images/2024/11/project-on-fire.png)
+![Project on Fire](/images/2024/11/project-on-fire.webp)
 
 # And what to do?
 

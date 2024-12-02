@@ -2,7 +2,7 @@ title = "Nikolaj Sarry Blog"
 author = "Nikolaj Sarry"
 copyright = "2024 - {{ YEAR }}"
 description = "Nikolaj's Sarry Loft for notes, thoughts and memos about IT, project management and many other things"
-profilePicture = "images/profile.jpg"
+profilePicture = "images/profile.webp"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
@@ -10,7 +10,7 @@ customCss = []
 # example ["js/custom.js"]
 customJs = [] 
 mainSections = ["post"]
-images = ["images/site-feature-image.png"]
+images = ["images//NIKOLAJ-SARRY.webp"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
 #contactFormAction = "https://formspree.io/f/your-form-hash-here"

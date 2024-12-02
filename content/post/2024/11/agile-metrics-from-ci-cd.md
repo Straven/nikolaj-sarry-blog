@@ -6,7 +6,7 @@ draft: false
 Tags: ['agile', 'agile-metrics', 'ci-cd']
 Categories: ['project-management']
 DisableComments: false
-thumbnail: 'images/metrics-ci-cd.png'
+thumbnail: 'images/2024/11/metrics-ci-cd.webp'
 series:
   - agile-metrics
 toc: false
@@ -16,7 +16,7 @@ These metrics come from continuous integration and continuous delivery tools. Th
 
 ## Test coverage
 
-![Test coverage](/images/2024/11/test-coverage.png)
+![Test coverage](/images/2024/11/test-coverage.webp)
 
 This is a very popular and ambiguous metric that many people get stuck on. It is the proportion of the code base that is covered by automated tests. More specifically, it is the proportion of methods for which one or more automated tests (unit or integration tests) are defined. While automated test coverage is a good idea, you should be careful with this metric. There are several reasons why this metric should be treated with caution:
 
@@ -32,25 +32,25 @@ A quick note: this metric can actually be obtained without using CI/CD tools, as
 
 ## Good and bad builds
 
-![Good and bad builds](/images/2024/11/good-bad-builds.png)
+![Good and bad builds](/images/2024/11/good-bad-builds.webp)
 
 This is the percentage of builds that fail out of the total number of builds. This value should be small, ideally very small. Developers should run builds on their own machines (which should have a regularly updated codebase) before checking anything. If this number is higher than 5%, it is a bad sign.
 
 ## Escaped defects
 
-![Escaped defects](/images/2024/11/escaped-defects.png)
+![Escaped defects](/images/2024/11/escaped-defects.webp)
 
 This is the number of defects that were discovered after release. This metric is a bit like 'Number of Incidents Occurred' (which we'll talk about in the Service Management section below), but not quite. A bug may make it into a release, but never be considered an incident (it may not affect the customer experience, but it is still a bug). An incident can also occur when there is no defect. A defect is a problem in the code base. The number of escaped defects should be zero or close to zero.
 
 ## Unsuccessful deployments
 
-![Unsuccessful deployments](/images/2024/11/unsuccessfull-deployements.png)
+![Unsuccessful deployments](/images/2024/11/unsuccessfull-deployements.webp)
 
 This is simply the number of failed deployments. You can count this number on a weekly, monthly or annual basis, depending on how often you deploy. Deployments can fail for a number of reasons, often due to configuration errors in the deployment tool. You can consider this value for the production environment only, or you can include other environments such as staging or test. This value should be zero or as close to zero as possible, especially for production environments. You should have no problem getting this number from your DevOps tool.
 
 ## Average time between releases
 
-![Average time between releases](/images/2024/11/average-time-between-releases.png)
+![Average time between releases](/images/2024/11/average-time-between-releases.webp)
 
 This metric is the average time between releases. This metric seems simple, but the following should be kept in mind:
 
@@ -68,6 +68,6 @@ This metric is very simple: take the number of deployments over a period of time
 
 ## Changed Lines of Code ((CLOC)) per release
 
-![Changed Lines of Code ((CLOC)) per release](/images/2024/11/changed-lines-of-code.png)
+![Changed Lines of Code ((CLOC)) per release](/images/2024/11/changed-lines-of-code.webp)
 
 This indicator measures the average number of lines of code changed in a release. A changed line means whether it was a deletion, an addition or a modification. So to calculate this metric, you divide the total number of lines of code changed for the selected time period by the number of releases made during that time period. It may seem counterintuitive, but you should try to keep this number small and getting smaller. This is because small releases have fewer changes, less complexity and less risk. Many small releases are better than a small number of large releases.

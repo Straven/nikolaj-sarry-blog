@@ -13,7 +13,7 @@ Tags:
   ]
 Categories: ['project-management']
 DisableComments: false
-thumbnail: 'images/competency-matrix.png'
+thumbnail: 'images/2024/11/competency-matrix.webp'
 toc: true
 ---
 
@@ -47,7 +47,7 @@ You can access each competency on any scale: numbers, signs, or letters. The mai
 
 Correctly assessing any competency will be easier if you know how people learn. Let's look at the graph:
 
-![skills graph](/images/2024/11/skills-matrix.png)
+![skills graph](/images/2024/11/skills-matrix.webp)
 
 On it, we see four sectors:
 
@@ -133,7 +133,7 @@ Situation: your business customer opens a new business line. Now you need to qui
 
 First of all, you find suitable people among your employees. Next, you need to decide which team to take a person from, so that it would hit his team the least. To do this, you need to make an average distribution of skill across all teams.
 
-![Skills distribution in team](/images/2024/11/skill-distribution-in-team.png)
+![Skills distribution in team](/images/2024/11/skill-distribution-in-team.webp)
 
 Then you will see that you can't take an employee from team №4 - it will hit them the hardest. But you can take an employee from team №3 - it will not affect the average skill level much, and the team will not lose so much in quality and speed.
 
@@ -141,7 +141,7 @@ Then you will see that you can't take an employee from team №4 - it will hit t
 
 Let's say that 3 skills are important for the project: Angular, React and Vue. You have 4 developers who understand these topics at different levels. The matrix shows that Angular is your bottleneck.
 
-![Skill bottleneck](/images/2024/11/skill-bottleneck.png)
+![Skill bottleneck](/images/2024/11/skill-bottleneck.webp)
 
 This means that it is not very profitable for you to develop on Angular. But if you already have code and components developed on it, you should think about how to expand this expertise and who to pass the knowledge to. The matrix shows that the closest to this is developer №4 - he is the one you should train.
 
@@ -149,7 +149,7 @@ This means that it is not very profitable for you to develop on Angular. But if 
 
 Sometimes it is important to understand how skilled the team is in certain issues. Here, too, the matrix will help. To do this, you need to plot the average distribution of skills within the team and see what expertise is missing.
 
-![Skills in a team](/images/2024/11/skills-in-a-team.png)
+![Skills in a team](/images/2024/11/skills-in-a-team.webp)
 
 In the diagram above, you can see that the team doesn't know Angular well. If you are switching from Angular to Vue, it's not a big deal. But if your core functionality is developed in Angular, it is time to increase competencies in this topic within the team.
 

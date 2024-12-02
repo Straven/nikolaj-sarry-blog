@@ -6,6 +6,6 @@ draft: true
 Tags: []
 Categories: []
 DisableComments: false
-thumbnail: "images/wallpaper.jpg"
+thumbnail: "images/wallpaper.webp"
 toc: false
 ---

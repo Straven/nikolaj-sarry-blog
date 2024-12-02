@@ -5,7 +5,7 @@ Description: 'Agile Metrics Principles'
 Tags: ['agile', 'project_management', 'metrics']
 Categories: ['project-management']
 DisableComments: false
-thumbnail: 'images/wallpaper.jpg'
+thumbnail: 'images/2024/11/agile-metrics-principles.webp'
 series:
   - agile-metrics
 toc: true
@@ -52,3 +52,5 @@ Numbers are important and can help tell a story, but they should be part of a li
 As you'll see next, there are many metrics you can collect when developing software. If you just collect them all in hopes of figuring them all out at once, you will be dumbfounded and unable to do anything. Each metric tells its own story and can be used as part of a specific study (what are we having trouble with?) or experiment (how can we improve this part of the process?).
 
 Ideally, the study or experiment will be the result of a retrospective or similar activity. For example, a team notices that they are having a problem meeting sprint goals. They decide to study time consumption during one sprint and notice that it has increased. They then run an experiment where they reduce the number of code checks and measure the time consumption again to see if it has changed. This is a good example of using metrics in a conversation, study, and experiment.
+
+![Agile Metrics Principles](/images/2024/11/agile-metrics-principles.webp)
