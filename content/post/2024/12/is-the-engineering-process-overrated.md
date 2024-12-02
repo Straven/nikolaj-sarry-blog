@@ -1,10 +1,10 @@
 ---
 title: 'Is the Engineering Process Overrated'
 date: 2024-12-02T04:12:38+02:00
-Description: ''
-draft: true
-Tags: []
-Categories: []
+Description: 'This article is a quick reminder of what really matters and where engineering managers should be spending their time and energy.'
+draft: false
+Tags: ['agile', 'engineering', 'team']
+Categories: ['thoughts-out-loud']
 DisableComments: false
 thumbnail: 'images/2024/12/engineering-process-overrated-thumb.webp'
 toc: false
