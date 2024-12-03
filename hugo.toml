@@ -27,8 +27,8 @@ pygmentsCodefencesGuessSyntax = true
   threshold = 80
   toLower = true
 [[related.indices]]
-  name = 'keywords'
+  name = 'tags'
   weight = 100
 [[related.indices]]
-  name = 'tags'
+  name = 'keywords'
   weight = 80
