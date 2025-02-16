@@ -1,12 +1,12 @@
 ---
-title: "Tasks Are Not Project Management"
+title: 'Tasks Are Not Project Management'
 date: 2025-02-12T16:23:46+02:00
-Description: ""
+Description: "Project management is everywhere. Don't believe me? In business, everything is a process and a project. You just need to look a bit deeper."
 draft: true
-Tags: []
-Categories: []
+Tags: ['agile', 'project-management', 'task-management']
+Categories: ['thoughts-out-loud']
 DisableComments: false
-thumbnail: "images/wallpaper.webp"
+thumbnail: 'images/2025/02/task-management-not-project-management.webp'
 toc: false
 ---
 
@@ -47,7 +47,9 @@ However, this process is not as straightforward as it seems at a first glance. A
 
 The mistakes listed above are terribly trivial. But it is worth remembering that the more negative factors that come together, the harder it is to bring the project to a successful conclusion. This is why project management should rely on automation tools rather than trust and project magic.
 
-## The Three Pillars of Project management
+## The Three Pillars of Project Management
+
+![Three Pillars of Project Management](/images/2025/02/three-pillars.webp)
 
 Project management in an organisation of any size rests on three pillars: time, budget, project boundaries, and the project manager's ability to balance these in the face of constant interference from senior management.
 
@@ -67,3 +69,11 @@ It is impossible to cover the whole subject of project management in one article
 - Collect reports, do retrospectives and analyse problems and successes. This will help you avoid future problems. When a solution is successful, don't celebrate the success immediately, understand the reasons for the success and then celebrate and implement the result.
 - Don't make a mistake when choosing a project manager. Remember that this is not a person with a certain education and not a public speaker, but a person who understands the subject of the project and should build a well-functioning system that will eventually give impetus to the next process. However, communication, delegation and teamwork skills are essential.
 - Manage change. When something new comes into the project, deal with it. Do not dismiss or reject the change. But stay within the boundaries of the triangle: deadlines, costs, boundaries.
+- Project objectives should be realistic and set based on an assessment of all available resources.
+- Determine the economics and feasibility of the project. The inability or unwillingness to assess efficiency has led to the death of many start-ups. Of course, it is possible to produce an electric car made of wood or to develop an application that counts the number of mosquitoes killed. But these are projects for the sake of the project, there is neither efficiency nor utility. Evaluate the customer or market before starting a project. This also applies to non-profit organisations.
+- Plan your workload with an eye to the future. This will help you understand who is doing what, and what resources are being used now and in the future.
+- Work on project documentation. All project documents should be collected in one place and contain comprehensive information about what happened in the project.
+- Don't delve too deeply into methodologies. It is best to choose the best methodology for each project. The methodology should work for you, not you for it.
+- Don't forget to finish the project. It seems ridiculous, but a project should be completed in its entirety. Do not allow partially completed projects, long projects, pauses that are one step away from completion. Although it can be quite difficult to close a project.
+
+A project is not a way to keep an employee busy or a tool for self-realisation. It is the work and life of a team of people who must work together with coherence and professionalism to achieve success. Building a company on the basis of project management is profitable, convenient and promising. The main thing is not to turn project work into a formality, endless meetings and imitation of activities.
