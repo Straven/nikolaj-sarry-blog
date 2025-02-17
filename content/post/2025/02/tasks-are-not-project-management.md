@@ -1,12 +1,12 @@
 ---
-title: 'Tasks Are Not Project Management'
+title: "Tasks Are Not Project Management"
 date: 2025-02-12T16:23:46+02:00
 Description: "Project management is everywhere. Don't believe me? In business, everything is a process and a project. You just need to look a bit deeper."
-draft: true
-Tags: ['agile', 'project-management', 'task-management']
-Categories: ['thoughts-out-loud']
+draft: false
+Tags: ["agile", "project-management", "task-management"]
+Categories: ["thoughts-out-loud"]
 DisableComments: false
-thumbnail: 'images/2025/02/task-management-not-project-management.webp'
+thumbnail: "images/2025/02/task-management-not-project-management.webp"
 toc: false
 ---
 
