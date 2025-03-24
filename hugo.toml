@@ -7,6 +7,12 @@ theme = "github.com/lxndrblz/anatole"
 enableEmoji = true
 enableRobotsTXT = true
 
+[sitemap]
+  changeFreq = 'daily'
+  disable = false
+  filename = 'sitemap.xml'
+  priority = -1
+
 # Syntax highlighting
 pygmentsUseClasses = true   
 pygmentsCodeFences = true
