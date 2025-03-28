@@ -31,7 +31,7 @@ This suggests that at all times, competent managers have used agile methodology 
 
 But none of the items on this list would apply to an external customer, so agile methods were not used for custom work. After all, people in those days were simple and intolerant, and could easily lose their heads if a deadline was missed.
 
-## Scrum сегодня
+## Scrum today
 The only novelty that Scrum has acquired today is the fact that it is used to implement external (custom) projects. This side of the framework's history should not be sanctified, because if someone wants to pull the strings, it will reveal the true motivation of the market participants who met in February 2001 to write the infamous Manifesto. In essence, the manifesto and the whole argumentation of the choice of Scrum is pure propaganda of the contractor's interest, veiled in the struggle of good against evil, in which the customer acts as the evil. The genius of the solution offered by agile methods is to convince the customer to sacrifice the result for the process.
 
 What happens if the product owner is an employee of a third party company? Firstly, the end result and the process of getting there are in different hands. Secondly, there is now a second stakeholder in the process with its own commercial interests. In addition, the outcome is important to the client, and the process is important to the contractor (because when the process is over, the money stops flowing). And nothing can be done about it, because another philosophical formula applies here - 'nothing personal, just business'.
