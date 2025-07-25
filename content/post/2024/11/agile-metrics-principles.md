@@ -1,13 +1,33 @@
 ---
-title: 'Agile Metrics Principles'
+title: "Agile Metrics Principles"
 date: 2024-11-11T10:38:56+02:00
-Description: 'Agile Metrics Principles'
-Tags: ['agile', 'project_management', 'metrics']
-Categories: ['project-management']
+Description: "Learn 3 fundamental principles of agile metrics for software teams. Discover why teams should own their metrics and avoid common measurement pitfalls."
+Tags:
+  [
+    "agile metrics principles",
+    "agile metrics for teams",
+    "software development metrics",
+    "agile measurement principles",
+    "team-owned metrics",
+    "agile project metrics",
+    "agile team performance",
+    "software development measurement",
+    "how to use agile metrics effectively",
+    "agile metrics principles for software teams",
+    "why teams should own their metrics",
+  ]
+Categories:
+  [
+    "Agile Methodology",
+    "Software Development",
+    "Project Management",
+    "Team Performance",
+    "Agile Best Practices",
+    "Software Metrics",
+  ]
 DisableComments: false
-thumbnail: 'images/2024/11/agile-metrics-principles.webp'
-series:
-  - agile-metrics
+thumbnail: "images/2024/11/agile-metrics-principles.webp"
+series: ["Agile Metrics", "Tips and Guides", "Career Development"]
 toc: true
 ---
 
@@ -27,6 +47,7 @@ For each metric, we'll look at what it is, how to collect it, when to use it, an
 
 ## Principles of Agile Metrics
 
+![Principles of Agile Metrics](/images/2024/11/principles-of-agile-metrics.webp)
 Before delving into agile metrics, it's important to understand some fundamental principles of what they mean and how to use them. I'm going to offer some insights that may surprise you or will be different from what is normally expected.
 
 However, understanding the principles is an important first step, and you will get much more value from metrics if you have a proper understanding of their overall context and purpose.
@@ -49,8 +70,7 @@ Numbers are important and can help tell a story, but they should be part of a li
 
 ## Principle #3: Agile metrics should be part of a specific study or experiment
 
+![gile metrics should be part of a specific study or experiment](/images/2024/11/agile-metrics-principle-3.webp)
 As you'll see next, there are many metrics you can collect when developing software. If you just collect them all in hopes of figuring them all out at once, you will be dumbfounded and unable to do anything. Each metric tells its own story and can be used as part of a specific study (what are we having trouble with?) or experiment (how can we improve this part of the process?).
 
 Ideally, the study or experiment will be the result of a retrospective or similar activity. For example, a team notices that they are having a problem meeting sprint goals. They decide to study time consumption during one sprint and notice that it has increased. They then run an experiment where they reduce the number of code checks and measure the time consumption again to see if it has changed. This is a good example of using metrics in a conversation, study, and experiment.
-
-![Agile Metrics Principles](/images/2024/11/agile-metrics-principles.webp)

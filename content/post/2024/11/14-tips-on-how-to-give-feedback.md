@@ -1,11 +1,46 @@
 ---
-title: '14 Tips on How to Give Feedback'
+title: "14 Tips on How to Give Feedback"
 date: 2024-11-11T06:18:04+02:00
-Description: 'Tips for new project managers about giving feedback'
-Tags: ['feedback']
-Categories: ['feedback']
+Description: "14 essential feedback tips for new managers and team leaders. Transform difficult conversations into growth opportunities with proven communication strategies."
+Tags:
+  [
+    "feedback",
+    "how to give feedback",
+    "effective feedback tips",
+    "feedback for managers",
+    "giving constructive feedback",
+    "feedback techniques",
+    "manager feedback skills",
+    "employee feedback",
+    "constructive criticism",
+    "feedback conversation",
+    "new manager tips",
+    "performance feedback",
+    "feedback best practices",
+    "how to give feedback to employees",
+    "tips for giving constructive feedback",
+    "effective feedback techniques for managers",
+    "how new managers should give feedback",
+    "giving negative feedback effectively",
+  ]
+Categories:
+  [
+    "Management Tips",
+    "Communication Skills",
+    "Team Management",
+    "Performance Management",
+    "Employee Relations",
+    "Constructive Feedback",
+  ]
+series:
+  [
+    "Tips and Guides",
+    "Management Advice",
+    "Professional Skills",
+    "Career Development",
+  ]
 DisableComments: false
-thumbnail: 'images/wallpaper.webp'
+thumbnail: "images/2024/11/feedback.webp"
 toc: true
 ---
 
