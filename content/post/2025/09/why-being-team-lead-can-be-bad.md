@@ -2,7 +2,7 @@
 title: "Why Being Team Lead Can Be Bad"
 date: 2025-09-26T19:17:48+03:00
 Description: "Discover why becoming a team lead isn't always the career advancement it seems. Learn about the common pitfalls of promoting engineers to leadership roles, the three problematic team lead archetypes (Wizard, Warrior, Bard), and practical advice for those struggling with the dual responsibilities of technical and people management. Essential reading for engineers considering leadership roles and companies making promotion decisions."
-draft: true
+draft: false
 Tags:
   [
     "leadership",
