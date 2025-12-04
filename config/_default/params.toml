@@ -8,7 +8,7 @@ favicon = "favicons/"
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
-customJs = [] 
+customJs = []
 mainSections = ["post"]
 images = ["images//NIKOLAJ-SARRY.webp"]
 doNotLoadAnimations = false
@@ -33,20 +33,23 @@ reversepagetitle = true # When set to 'true', the Window Title will be reversed 
 
 # hidesidebar = true
 
+[params]
+rssFullContent = true
+
 [giscus]
-repo="Straven/nikolaj-sarry-blog"
-repo-id="R_kgDONNc5tA"
-category="Blog comments"
-category-id="DIC_kwDONNc5tM4CkKUY"
-mapping="pathname"
-strict="0"
-reactions-enabled="1"
-emit-metadata="0"
-input-position="bottom"
+repo = "Straven/nikolaj-sarry-blog"
+repo-id = "R_kgDONNc5tA"
+category = "Blog comments"
+category-id = "DIC_kwDONNc5tM4CkKUY"
+mapping = "pathname"
+strict = "0"
+reactions-enabled = "1"
+emit-metadata = "0"
+input-position = "bottom"
 #theme="dark"
 #lang="en"
-loading="lazy"
-crossorigin="anonymous"
+loading = "lazy"
+crossorigin = "anonymous"
 
 [simpleAnalytics]
 # enable = true
@@ -63,7 +66,7 @@ trackerScriptName = "script.js"
 
 ## Math settings
 [math]
-enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+enable = false # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
 use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 ## Social links

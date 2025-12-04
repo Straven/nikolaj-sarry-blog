@@ -1,6 +1,6 @@
-baseURL = 'https://nikolaj-sarry.blog'
-languageCode = 'en-us'
-title = 'Nikolaj Sarry Blog'
+[[imports]]
+path = "github.com/lxndrblz/anatole"
+disable = false
 
 theme = "github.com/lxndrblz/anatole"
 
@@ -8,33 +8,33 @@ enableEmoji = true
 enableRobotsTXT = true
 
 [sitemap]
-  changeFreq = 'daily'
-  disable = false
-  filename = 'sitemap.xml'
-  priority = -1
+changeFreq = 'daily'
+disable = false
+filename = 'sitemap.xml'
+priority = -1
 
 # Syntax highlighting
-pygmentsUseClasses = true   
+pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [markup]
-    [markup.goldmark]
-        [markup.goldmark.renderer]
-        unsafe=true
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
 
 [taxonomies]
-    category = "categories"
-    tag = "tags"
-    series = "series"
+category = "categories"
+tag = "tags"
+series = "series"
 
 [related]
-  includeNewer = true
-  threshold = 80
-  toLower = true
+includeNewer = true
+threshold = 80
+toLower = true
 [[related.indices]]
-  name = 'tags'
-  weight = 100
+name = 'tags'
+weight = 100
 [[related.indices]]
-  name = 'keywords'
-  weight = 80
+name = 'keywords'
+weight = 80
